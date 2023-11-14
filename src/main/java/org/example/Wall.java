@@ -6,8 +6,6 @@ import java.util.Optional;
 
 public class Wall implements Structure {
     private List<Block> blocks;
-    private String color;
-    private String material;
 
 
 
